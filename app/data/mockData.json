@@ -1,0 +1,26 @@
+{
+  "teachers": [
+    { "id": "t1", "name": "Dr. Aisha Khan" },
+    { "id": "t2", "name": "Prof. John Mills" },
+    { "id": "t3", "name": "Ms. Sarah Williams" },
+    { "id": "t4", "name": "Dr. Robert Johnson" }
+  ],
+  "rooms": [
+    { "id": "r1", "name": "Room 101", "capacity": 40 },
+    { "id": "r2", "name": "Lab A", "capacity": 30 },
+    { "id": "r3", "name": "Hall 201", "capacity": 100 },
+    { "id": "r4", "name": "Room 305", "capacity": 50 }
+  ],
+  "courses": [
+    { "id": "c1", "code": "CS101", "title": "Intro to CS", "hours": 3, "teacherId": "t1" },
+    { "id": "c2", "code": "MA101", "title": "Calculus I", "hours": 2, "teacherId": "t2" },
+    { "id": "c3", "code": "PH101", "title": "Physics I", "hours": 3, "teacherId": "t3" },
+    { "id": "c4", "code": "EN101", "title": "English Literature", "hours": 2, "teacherId": "t4" }
+  ],
+  "studentGroups": [
+    { "id": "g1", "name": "Year 1 - CS", "size": 38 },
+    { "id": "g2", "name": "Year 1 - Science", "size": 45 },
+    { "id": "g3", "name": "Year 2 - Engineering", "size": 40 }
+  ],
+  "timetables": []
+}
